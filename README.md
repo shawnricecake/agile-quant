@@ -6,9 +6,10 @@ This paper is accepted by NeurIPS 2024
 
 
 ## Usage
-1. Download models `sh download.sh`
-2. Use GPTQ to quantize weights `sh run-gptq-llama.sh`
-3. Quantize activation with `gptq_fq_quant_llama.py`
+1. Replace llama model files in `transformers` package with `transformers/models/llama`
+2. Download models `sh download.sh`
+3. Use GPTQ to quantize weights `sh run-gptq-llama.sh`
+4. Quantize activation with `gptq_fq_quant_llama.py`
 
 ## Citation
 ```
