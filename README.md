@@ -2,7 +2,7 @@
 
 Official repo for paper: [Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge](https://arxiv.org/abs/2312.05693)
 
-This paper is accepted by NeurIPS 2024
+This paper is accepted by AAAI 2024
 
 
 ## Usage
